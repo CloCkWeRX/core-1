@@ -801,7 +801,7 @@ esphome-dashboard-api==1.3.0
 eternalegypt==0.0.16
 
 # homeassistant.components.eufylife_ble
-eufylife-ble-client==0.1.8
+eufylife-ble-client==0.1.10
 
 # homeassistant.components.evohome
 evohome-async==1.0.5
